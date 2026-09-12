@@ -1,0 +1,6 @@
+{
+  "name": "Khyber Shinwari Dastarkhwan",
+  "description": "Authentic Shinwari taste and traditional Pashtun dining at Cricket Stadium Food Street, Shamsabad, Rawalpindi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
